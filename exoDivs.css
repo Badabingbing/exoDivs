@@ -1,0 +1,53 @@
+html {
+	width: 1198px;
+	height: 758px;
+
+}
+
+
+header {
+	width: 100%;
+	height: 100px;
+	background-color: #37BBD2;
+
+}
+
+.container {
+padding-left: 15px;
+padding-right: 15px;
+margin-left: auto;
+margin-left: auto;
+position: relative;
+}
+
+.colonne1 {
+	float: left;
+	width: 33.33%;
+	margin-left: -15px;
+	padding-top: 10px;
+}
+
+#img1 {
+background-color: red;
+
+height: 333px;
+
+}
+
+#img2 {
+	background-color: black;
+	width: 50%;
+	height: 200px;
+	margin-top: 15px;
+	position: inline;
+	
+}
+
+#img3 {
+	background-color: green;
+	width: 45%;
+	height: 200px;
+	position: inline;
+
+
+}
